@@ -1,0 +1,14 @@
+requests   # requests is built-in python api library
+pytest
+pytest-html      # for html report to install this plugin
+
+# advanced pytest commands
+
+pytest-order    # for ordering the tests to install this plug-in
+pytest-dependency # for dependency to run the test to install this plug-in
+pytest-xdist   # for parallel execution to install this plug-in
+
+# playwright commands
+
+pytest-playwright   # for playwright
+playwright      # plawright browsers
